@@ -2,6 +2,7 @@
 
 ### Bio
 I am a Learner who wants to contribute to open source
+and participate in Gsoc .
 
 ### Location
 Chandigarh , India 
@@ -9,6 +10,7 @@ Chandigarh , India
 ### Projects
 e-notes 
 Fitbud 
+
 link in my github repository
 
 ### Hobbies & Interests
