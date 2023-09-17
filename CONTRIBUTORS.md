@@ -107,6 +107,7 @@
 - [Misael Ma](https://github.com/MisaelMa)
 - [Mohammed Sajid Mansoori](https://github.com/sajidmansoori1998)
 - [Momozor](https://github.com/momozor)
+- [Monish Solanki](https://github.com/dev-monishsolanki)
 - [Mush60](https://github.com/mush60)
 - [Mykola Balabash](https://github.com/twilderan)
 - [Navdeep Hada](https://github.com/hadanavdeep)
